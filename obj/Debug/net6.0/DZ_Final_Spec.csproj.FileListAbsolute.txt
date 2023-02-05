@@ -1,0 +1,15 @@
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\bin\Debug\net6.0\DZ_Final_Spec.exe
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\bin\Debug\net6.0\DZ_Final_Spec.deps.json
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\bin\Debug\net6.0\DZ_Final_Spec.runtimeconfig.json
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\bin\Debug\net6.0\DZ_Final_Spec.dll
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\bin\Debug\net6.0\DZ_Final_Spec.pdb
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\DZ_Final_Spec.csproj.AssemblyReference.cache
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\DZ_Final_Spec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\DZ_Final_Spec.AssemblyInfoInputs.cache
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\DZ_Final_Spec.AssemblyInfo.cs
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\DZ_Final_Spec.csproj.CoreCompileInputs.cache
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\DZ_Final_Spec.dll
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\refint\DZ_Final_Spec.dll
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\DZ_Final_Spec.pdb
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\DZ_Final_Spec.genruntimeconfig.cache
+C:\Users\DarkNess\Desktop\ДЗ ИТОГИ\DZ_Final_Spec\obj\Debug\net6.0\ref\DZ_Final_Spec.dll
